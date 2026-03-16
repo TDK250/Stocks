@@ -1,1 +1,1 @@
-A simple, privacy-focused stock tracker built with Flutter. track your portfolio and watchlists without being tracked.
+A simple, privacy-focused stock tracker built with Flutter and based on the yahoo finance API. Track your portfolio and watchlists without being tracked.
