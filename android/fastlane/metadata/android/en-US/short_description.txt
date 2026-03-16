@@ -1,1 +1,1 @@
-Free and open-source stock tracker.
+FOSS stock tracker based on yahoo finance.
