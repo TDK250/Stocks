@@ -13,10 +13,6 @@ A simple, privacy-focused stock tracker built with Flutter and based on the Yaho
 - **Clean UI**: A modern, minimal interface that stays out of your way.
 - **FOSS**: Free and Open Source Software.
 
-## Screenshots
-
-*(Coming soon - You can add screenshots here by placing them in the `assets/screenshots` folder)*
-
 ## Installation
 
 ### From Source
